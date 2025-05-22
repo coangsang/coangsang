@@ -1,2 +1,3 @@
-<h1>Welcome to my profile</h1>
-<p>I'm a student at VNUHCM - University of Science.</p>
+# 👋 Welcome to my GitHub profile
+
+Hi, I'm a student at **VNUHCM - University of Science**
